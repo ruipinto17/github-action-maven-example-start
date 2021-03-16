@@ -28,5 +28,3 @@ jobs:
       
       - name: Maven clean install
         run: mvn clean install
-          echo Add other actions to build,
-          echo test, and deploy your project.
